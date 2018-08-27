@@ -9,6 +9,8 @@ Provide detailed instructions to make the application run on a Windows Server 20
 * The procedure associated to point 2 can contain manual steps, but the more automated, the better
 * You can use the whatever tool to want with the restrictions that those tools should be accessible by us in a free way
 
+Note: If you're not able to create a .Net Project, you can choose another language, as well as you can fulfill all requirements asked
+
 ## Deliverables ##
 A link to a github repository that should include the application code and a README.md file with detailed instructions to build and install the application.
 
